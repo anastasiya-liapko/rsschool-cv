@@ -5,7 +5,7 @@ Telegram @anastasiya_liapko
 Github https://github.com/anastasiya-liapko
 
 ### Summary
-I am a computer science student and profesional frontend developer. I always increase my skill level and learn new things from everywhere. My goal is to became senior full stack developer.
+I am a computer science student and profesional frontend developer. I always increase my skill level and learn new things from everywhere. My goal is to become a senior full stack developer.
 
 ### Skills
 * HTML
